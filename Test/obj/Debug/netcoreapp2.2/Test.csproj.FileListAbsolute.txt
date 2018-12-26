@@ -1,0 +1,17 @@
+/home/elminino/programming/SportsStore/Test/obj/Debug/netcoreapp2.2/Test.csprojAssemblyReference.cache
+/home/elminino/programming/SportsStore/Test/obj/Debug/netcoreapp2.2/Test.csproj.CoreCompileInputs.cache
+/home/elminino/programming/SportsStore/Test/obj/Debug/netcoreapp2.2/Test.AssemblyInfoInputs.cache
+/home/elminino/programming/SportsStore/Test/obj/Debug/netcoreapp2.2/Test.AssemblyInfo.cs
+/home/elminino/programming/SportsStore/Test/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/elminino/programming/SportsStore/Test/bin/Debug/netcoreapp2.2/xunit.runner.utility.netstandard15.dll
+/home/elminino/programming/SportsStore/Test/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netstandard15.dll
+/home/elminino/programming/SportsStore/Test/bin/Debug/netcoreapp2.2/Test.deps.json
+/home/elminino/programming/SportsStore/Test/bin/Debug/netcoreapp2.2/Test.runtimeconfig.json
+/home/elminino/programming/SportsStore/Test/bin/Debug/netcoreapp2.2/Test.runtimeconfig.dev.json
+/home/elminino/programming/SportsStore/Test/bin/Debug/netcoreapp2.2/Test.dll
+/home/elminino/programming/SportsStore/Test/bin/Debug/netcoreapp2.2/Test.pdb
+/home/elminino/programming/SportsStore/Test/bin/Debug/netcoreapp2.2/SportsStore.dll
+/home/elminino/programming/SportsStore/Test/bin/Debug/netcoreapp2.2/SportsStore.pdb
+/home/elminino/programming/SportsStore/Test/obj/Debug/netcoreapp2.2/Test.csproj.CopyComplete
+/home/elminino/programming/SportsStore/Test/obj/Debug/netcoreapp2.2/Test.dll
+/home/elminino/programming/SportsStore/Test/obj/Debug/netcoreapp2.2/Test.pdb
